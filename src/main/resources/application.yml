@@ -1,0 +1,12 @@
+# server port config
+server:
+     port: 8001
+
+logging:
+ file:
+    name: C:/F/app/spring-boot-log/customer.log
+    
+spring:
+   application:
+      name: CUSTOMER-SERVICE
+      
